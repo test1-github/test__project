@@ -1,0 +1,38 @@
+purchase:
+    light:
+      shoes: INFO
+    conf:
+      path: abc.xml
+
+
+customer:
+  custom:
+    tId: 123-1b1b
+    slider: X
+    dmode: false
+    cc:
+      id: abcc
+      iname: xyz
+      abc: abvv
+      pabc: Tst
+      frabc: dd-22
+      ccd: kaj
+      regexx: djdh
+      eeee: true
+      rrr: uedu-7
+      gggg: jwiw-199-dd
+      dddd: 5727 jdu
+      tz: abb
+      dtdt: gui
+      mPs: 5
+      asr: false
+      stdd:
+        xx: 1
+        T1: 2
+        T2: 3
+        T3: 4
+        T4: 5
+        Test5: 6
+    app:
+      hhh: 30
+      bbb: 45

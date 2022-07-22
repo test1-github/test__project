@@ -1,0 +1,43 @@
+purchase:
+    light:
+      shoes: INFO
+    conf:
+      path: abc.xml
+
+
+customer:
+  custom:
+    tId: {{ metadata.tId }}
+    slider: {{ slider }}
+    cc:
+      reg: {{ reg }}
+      id: {{ metadata.id }}
+      iname: {{ metadata.iname }}
+      abc: {{ metadata.abc }}
+      pabc: {{ metadata.pabc }}
+      mPs: 5
+      asr: false
+      eeee: true
+      dtdt: pp
+      tz: {{ metadata.tz }}
+      stdd:
+        xx: 1
+        T1: 2
+        T2: 3
+        T3: 4
+        T4: 5
+        Test5: 6
+        Test6: 7
+      ar:
+        {%- for file def  %}
+        - {%- for files_ %}
+          - tyxy: abc
+            shshhs: {{shshhs}}
+            sjhsa: {{sjhsa}}
+            sakj: {{sakj}}
+          {%- endfor %}
+        {%- endfor %}
+      {%- if caption length > 0 %}
+    app:
+      hhh: 30
+      bbb: 45
